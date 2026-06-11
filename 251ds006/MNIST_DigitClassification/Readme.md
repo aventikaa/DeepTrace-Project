@@ -1,3 +1,8 @@
+Aventika Balaji
+251DS006
+CDS 
+
+
 # MNIST Digit Classifier
 
 Build a handwritten digit classifier using **PyTorch** and the **MNIST dataset**, one of the most widely used benchmark datasets in computer vision. This project introduces the core fundamentals of deep learning by guiding participants through the complete lifecycle of an image classification pipeline — from understanding raw image data to training and evaluating a neural network.
